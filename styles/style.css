@@ -1,0 +1,35 @@
+body {
+    background-color: #1d1e22
+}
+
+.container {
+    background-color: #393f4d;
+    color: #feda6a;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    padding :2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 350px;
+}
+
+.stats {
+    padding: 2px;
+    font-size: 20px;
+}
+
+.list_item{
+    margin:2px;
+    list-style: none;
+}
